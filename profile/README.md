@@ -23,6 +23,8 @@
 
 자세한 사항은 [공지사항:커뮤니티 규칙](https://github.com/orgs/Soongsil-Developers/discussions/7)을 참고해주세요
 
+저희 깃헙 Organization 멤버로 추가되기 원하시면 [여기](https://github.com/orgs/Soongsil-Developers/discussions/1) 댓글로 깃헙 아이디를 남겨주세요
+
 ------------
 
 문의, 요청 사항이 있다면 [자유게시판](https://github.com/orgs/Soongsil-Developers/discussions/categories/자유게시판)에 글 남겨주세요
