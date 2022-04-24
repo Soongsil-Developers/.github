@@ -25,6 +25,10 @@
 
 저희 깃헙 Organization 멤버로 추가되기 원하시면 [여기](https://github.com/orgs/Soongsil-Developers/discussions/1) 댓글로 깃헙 아이디를 남겨주세요
 
+♧가입시 주어지는 혜택! 즉.시.지.급.♧
+
+<img width="302" alt="Screen Shot 2022-04-24 at 2 23 10 PM" src="https://user-images.githubusercontent.com/13645032/164958073-3a00f556-5c7f-4115-9675-d4e742c734a8.png">
+
 ------------
 
 문의, 요청 사항이 있다면 [자유게시판](https://github.com/orgs/Soongsil-Developers/discussions/categories/자유게시판)에 글 남겨주세요
