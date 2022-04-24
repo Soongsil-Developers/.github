@@ -9,7 +9,7 @@
 
 ### 👀 살펴보기
 
-- [💬 게시판](https://github.com/orgs/Soongsil-Developers/discussions)
+- [💬 게시판](https://github.com/orgs/Soongsil-Developers/discussions?collapsed=1)
 - [☝️ 커뮤니티 규칙](https://github.com/orgs/Soongsil-Developers/discussions/7)
 - [🍻 슬랙 채널](https://join.slack.com/t/soongsil-developers/shared_invite/zt-17pcv30ly-oRcuIYOB7WShlTlBVzvLAA)
 
