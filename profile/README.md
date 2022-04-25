@@ -25,7 +25,7 @@
 
 저희 깃헙 Organization 멤버로 추가되기 원하시면
  - [공지사항](https://github.com/orgs/Soongsil-Developers/discussions/1)에 댓글로 깃헙 아이디를 남겨주시거나
- - [슬랙 채널](https://join.slack.com/t/soongsil-developers/shared_invite/zt-17pcv30ly-oRcuIYOB7WShlTlBVzvLAA)에 들어와서 말해주세요
+ - [슬랙 채널](https://slack.soongsil.dev)에 들어와서 말해주세요
 
 ♧가입시 주어지는 혜택! 즉.시.지.급.♧
 
