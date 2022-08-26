@@ -35,4 +35,4 @@
 
 문의, 요청 사항이 있다면 [자유게시판](https://github.com/orgs/Soongsil-Developers/discussions/categories/자유게시판)에 글 남겨주세요
 
-비공개로 문의, 요청을 원하면 gomjellie@gmail.com 으로 연락주세요 🏄‍♂️
+비공개로 문의, 요청을 원하면 gomjellie@gmail.com (오인규)로 연락주세요 🏄‍♂️
