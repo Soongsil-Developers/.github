@@ -23,9 +23,9 @@
 
 자세한 사항은 [공지사항:커뮤니티 규칙](https://github.com/orgs/Soongsil-Developers/discussions/7)을 참고해주세요
 
-저희 깃헙 Organization 멤버로 추가되기 원하시면
- - [공지사항](https://github.com/orgs/Soongsil-Developers/discussions/1)에 댓글로 깃헙 아이디를 남겨주시거나
- - [슬랙 채널](https://soongsil-developers.slack.com)에 들어와서 말해주세요
+저희 깃헙 Organization 멤버로 추가되기 원하시면:
+ - **자동 초대**: GitHub 프로필 **Company**에 `Soongsil`, `SSU`, 또는 `숭실` (예: `Soongsil University`, `숭실대학교`)을 기재하고, **[@Soongsil-Developers](https://github.com/Soongsil-Developers)를 팔로우(Follow)**해주시면 매일 주기적으로 자동 초대장이 발송됩니다!
+ - **수동 신청**: [공지사항](https://github.com/orgs/Soongsil-Developers/discussions/1)에 댓글로 깃헙 아이디를 남겨주시거나 [슬랙 채널](https://soongsil-developers.slack.com)에 들어와서 말씀해 주세요.
 
 ♧가입시 주어지는 혜택! 즉.시.지.급.♧
 
